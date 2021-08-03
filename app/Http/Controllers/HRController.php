@@ -44,6 +44,7 @@ class HRController extends Controller
 
     public function assignShifts()
     {
+
     }
 
     public function saveEditShift()
